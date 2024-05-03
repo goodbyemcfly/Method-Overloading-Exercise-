@@ -21,7 +21,7 @@
 
             if (dollar == true && sum == 1)
             {
-                return $"{sum} + dollar";
+                return $"{sum} dollar";
             }
             else if (dollar == true && sum > 1)
             {
